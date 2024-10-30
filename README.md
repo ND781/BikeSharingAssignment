@@ -2,27 +2,10 @@
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 ## Table of Contents
-##importing Required Libraries
-#Importing and understanding Data
-#Cleaning/segregating Data
-#3.1 Check Missing Values
-#3.2 Check Unique Values
-#3.3 Remove Insignificant Columns
-#3.4 Identify Numeric and Categorical variables
-#3.5 Outliers
-#Exploratory Data Analysis
-#4.1 Univariate Analysis
-#4.2 Bivariate Analysis
-#4.3 Multivariate Analysis
-#Preprocessing
-#5.1 Get Dummies
-#5.2 Train-Test Split
-#5.3 Scaling Algorithm Hypothesis
-#5.4 Scaling (MinMaxScaler())
-#5.5 RFE (Recursive Feature elimination)
-#Modelling
-#Model Evaluation
-#Predictions
+* [General Info](#general-information)
+* [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
